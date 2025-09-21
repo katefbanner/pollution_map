@@ -1,6 +1,6 @@
 # 🌍 Air Pollution Map  
 
-An interactive web application that visualizes **real-time air pollution data** on a map.  
+An interactive web application that visualises **real-time air pollution data** on a map.  
 The project uses a **Python (FastAPI) backend** to fetch and serve pollution data from **OpenAQ** and a **React + Leaflet frontend** to display it in an intuitive map interface.  
 
 ---
@@ -8,7 +8,7 @@ The project uses a **Python (FastAPI) backend** to fetch and serve pollution dat
 ## ✨ Features  
 - 🔎 Search pollution data by **city** or **country**  
 - 🗺️ Interactive **map with pollution markers**  
-- 🎨 **Color-coded indicators** (green = clean air, red = polluted)  
+- 🎨 **Colour-coded indicators** (green = clean air, red = polluted)  
 - 📈 View **historical air quality trends**  
 - ☁️ **Heatmap layer** for pollutant concentration  
 
