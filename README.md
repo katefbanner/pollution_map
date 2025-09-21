@@ -50,7 +50,10 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+---
+
 📂 Project Structure
+```bash
 air-pollution-map/
 │── backend/             # FastAPI backend
 │   ├── main.py          # API entry point
@@ -62,4 +65,5 @@ air-pollution-map/
 │   └── src/             # React source code
 │
 └── README.md
+```
 
